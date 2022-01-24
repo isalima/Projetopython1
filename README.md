@@ -1,0 +1,1 @@
+Tentando entender o diacho do git
