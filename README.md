@@ -1,2 +1,1 @@
-Tentando entender o diacho do git
-blz, tamo alterando agora e aprendendo comandinhos
+Esse repositório serve para os arquivos das atividades do curso básico de python
